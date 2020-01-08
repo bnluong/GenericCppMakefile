@@ -1,6 +1,6 @@
 SRCDIR := src
 BINDIR := bin
-HDRDIR := header
+HDRDIR := include
 OBJDIR := obj
 EXEC := #PROGRAM_NAME"
 INCLUDE := -I $(HDRDIR)
